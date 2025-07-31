@@ -4,11 +4,11 @@ Reinforcement Learning Summative Assignment
 
 This repository contains a comprehensive reinforcement learning project that implements and compares four different RL algorithms (DQN, REINFORCE, PPO, and Actor-Critic) in a custom environment designed to simulate entrepreneurial learning for Liberian secondary school students.
 
-### 🎯 Project Overview
+### Project Overview
 
 The project addresses the gap between traditional education and practical entrepreneurial skills by creating an AI simulation where agents learn to navigate the challenges of starting and running a business in Liberia. The custom environment incorporates culturally relevant scenarios including resource constraints, market dynamics, and skill development opportunities.
 
-### 🏗️ Repository Structure
+### Repository Structure
 
 ```
 Jallah_Sumbo_rl_summative/
@@ -157,7 +157,7 @@ This research demonstrates the potential for AI-assisted entrepreneurial educati
 - **Strategy Discovery**: AI agents learned sophisticated business strategies that could inform human education
 - **Accessibility**: Could provide entrepreneurial education in areas with limited traditional resources
 
-### 🔬 Research Contributions
+### Research Contributions
 
 1. **Novel Environment**: First RL environment specifically designed for entrepreneurial education in developing economies
 2. **Comprehensive Comparison**: Systematic evaluation of four major RL paradigms in educational context
