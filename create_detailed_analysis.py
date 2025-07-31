@@ -24,7 +24,7 @@ PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.join(PROJECT_ROOT, 'environment'))
 sys.path.append(os.path.join(PROJECT_ROOT, 'algorithms'))
 
-from liberian_entrepreneurship_env import LiberianEntrepreneurshipEnv
+from custom_env import LiberianEntrepreneurshipEnv
 
 def load_results():
     """Load training results from the quick training."""
